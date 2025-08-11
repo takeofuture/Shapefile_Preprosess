@@ -8,3 +8,6 @@ https://zenn.dev/takeofuture/articles/defc24b6d84e3b
 そしてダウンロードしたデータをGOOGLE　DRIVEにアップロードしてください。
 兵庫県の市川町（いちかわちょう）、福崎町（ふくさきちょう）、神河町（かみかわちょう）
 ここのレポではサンプルとして、３つの自治体から構成された兵庫県の神崎郡（かんざきぐん）のデータを取ってきます。
+
+### KANZAKI_DATA.ipynb の説明
+https://zenn.dev/takeofuture/articles/f3bc63e1083860
